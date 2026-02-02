@@ -71,7 +71,7 @@ const Header = () => {
             >
               <div className="w-12 h-12 rounded-full bg-transparent flex items-center justify-center overflow-hidden">
                 <img
-                  src="/public/logo.jpg"
+                  src="/logo.jpg"
                   alt="Shree Shivaraj Logo"
                   className="w-full h-full object-contain"
                 />
