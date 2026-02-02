@@ -19,13 +19,13 @@ const Teachers = () => {
       image: teacher1,
     },
     {
-      name: 'Mr. Sunil Karki',
+      name: 'Mrs. Shardha Chaudhary',
       role: 'Senior Teacher',
       subject: 'Mathematics',
       image: teacher2,
     },
     {
-      name: 'Mrs. Gita Pandey',
+      name: 'Mrs. Neha Chaudhary',
       role: 'Teacher',
       subject: 'Science',
       image: teacher3,
