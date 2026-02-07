@@ -75,7 +75,7 @@ const Curriculum = () => {
         {/* Programs */}
         <div className="mt-16 grid md:grid-cols-1 gap-8">
           {[
-            { title: 'Primary (Nursery-5)', color: 'bg-green-500' },
+            { title: 'Primary ( Nursery - 5 )', color: 'bg-green-500' },
           
           ].map((program, index) => (
             <div
